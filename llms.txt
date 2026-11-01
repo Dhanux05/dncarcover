@@ -13,26 +13,26 @@ Key facts:
 
 ## Main pages
 - [Home](https://dncarcover.in/): overview, FAQ
-- [Premium car cover](https://dncarcover.in/car-cover.html): ₹2,999, specs and FAQ
-- [Premium bike and scooter cover](https://dncarcover.in/bike-cover.html): ₹1,499, specs and FAQ
-- [Car covers by model](https://dncarcover.in/car-covers/index.html): custom fit covers by car model
+- [Premium car cover](https://dncarcover.in/car-cover): ₹2,999, specs and FAQ
+- [Premium bike and scooter cover](https://dncarcover.in/bike-cover): ₹1,499, specs and FAQ
+- [Car covers by model](https://dncarcover.in/car-covers/): custom fit covers by car model
 
 ## Guides
-- [Best car cover in Bangalore](https://dncarcover.in/best-car-cover-in-bangalore.html)
-- [Best bike and scooter cover in Bangalore](https://dncarcover.in/best-bike-cover-in-bangalore.html)
-- [Car and bike covers in Karnataka](https://dncarcover.in/car-bike-covers-karnataka.html)
+- [Best car cover in Bangalore](https://dncarcover.in/best-car-cover-in-bangalore)
+- [Best bike and scooter cover in Bangalore](https://dncarcover.in/best-bike-cover-in-bangalore)
+- [Car and bike covers in Karnataka](https://dncarcover.in/car-bike-covers-karnataka)
 
 ## Car model pages
-- [Brezza]({D}car-covers/brezza.html)
-- [Duster]({D}car-covers/duster.html)
-- [Ertiga]({D}car-covers/ertiga.html)
-- [Hyryder]({D}car-covers/hyryder.html)
-- [Maruti 800]({D}car-covers/maruti-800.html)
-- [Punch]({D}car-covers/punch.html)
-- [Triber]({D}car-covers/triber.html)
-- [Urban Cruiser]({D}car-covers/urban-cruiser.html)
-- [Wagonr]({D}car-covers/wagonr.html)
-- [Xuv 500]({D}car-covers/xuv-500.html)
+- [Brezza](https://dncarcover.in/car-covers/brezza)
+- [Duster](https://dncarcover.in/car-covers/duster)
+- [Ertiga](https://dncarcover.in/car-covers/ertiga)
+- [Hyryder](https://dncarcover.in/car-covers/hyryder)
+- [Maruti 800](https://dncarcover.in/car-covers/maruti-800)
+- [Punch](https://dncarcover.in/car-covers/punch)
+- [Triber](https://dncarcover.in/car-covers/triber)
+- [Urban Cruiser](https://dncarcover.in/car-covers/urban-cruiser)
+- [Wagonr](https://dncarcover.in/car-covers/wagonr)
+- [Xuv 500](https://dncarcover.in/car-covers/xuv-500)
 
 ## Optional
 - [Full details for AI assistants](https://dncarcover.in/llms-full.txt)
