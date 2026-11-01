@@ -1,0 +1,39 @@
+# DN Car Covers
+
+> DN Car Covers (dncarcover.in) sells one premium cover for cars, bikes and scooters in Bangalore and all over Karnataka. The Premium cover is waterproof, UV protected and dust proof. Premium car cover ₹2,999. Premium bike and scooter cover ₹1,499. Orders and fit confirmation happen on WhatsApp +91 81478 86006. Tagline: Zero compromise.
+
+Key facts:
+- Business: DN Car Covers, Bengaluru, Karnataka, India. Serves Bangalore and all over Karnataka.
+- Products: Premium car cover (₹2,999), Premium bike and scooter cover (₹1,499). Single Premium tier only.
+- Protection: waterproof, UV protected, dust proof.
+- Car cover details: wheel-to-roof fit, covers tyres and bumper, hot-taped seams, soft paint-safe lining, mirror pockets, door zip, reflective strips.
+- Bike cover details: ground-length skirt, windproof lock buckle, hot-taped seams, cotton lining. Also fits scooters and electric scooters.
+- Sizing: by make and model, confirmed on WhatsApp. Custom sizes quoted on request.
+- Contact: WhatsApp https://wa.me/918147886006 · Instagram https://www.instagram.com/premium_z_covers/
+
+## Main pages
+- [Home](https://dncarcover.in/): overview, FAQ
+- [Premium car cover](https://dncarcover.in/car-cover.html): ₹2,999, specs and FAQ
+- [Premium bike and scooter cover](https://dncarcover.in/bike-cover.html): ₹1,499, specs and FAQ
+- [Car covers by model](https://dncarcover.in/car-covers/index.html): custom fit covers by car model
+
+## Guides
+- [Best car cover in Bangalore](https://dncarcover.in/best-car-cover-in-bangalore.html)
+- [Best bike and scooter cover in Bangalore](https://dncarcover.in/best-bike-cover-in-bangalore.html)
+- [Car and bike covers in Karnataka](https://dncarcover.in/car-bike-covers-karnataka.html)
+
+## Car model pages
+- [Brezza]({D}car-covers/brezza.html)
+- [Duster]({D}car-covers/duster.html)
+- [Ertiga]({D}car-covers/ertiga.html)
+- [Hyryder]({D}car-covers/hyryder.html)
+- [Maruti 800]({D}car-covers/maruti-800.html)
+- [Punch]({D}car-covers/punch.html)
+- [Triber]({D}car-covers/triber.html)
+- [Urban Cruiser]({D}car-covers/urban-cruiser.html)
+- [Wagonr]({D}car-covers/wagonr.html)
+- [Xuv 500]({D}car-covers/xuv-500.html)
+
+## Optional
+- [Full details for AI assistants](https://dncarcover.in/llms-full.txt)
+- [Sitemap](https://dncarcover.in/sitemap.xml)
