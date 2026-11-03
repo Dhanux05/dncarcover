@@ -23,3 +23,4 @@
 .g-rel{list-style:none;padding:0!important;display:flex!important;flex-wrap:wrap;gap:10px!important}
 .g-rel a{display:inline-block;padding:10px 16px;border:1px solid var(--line);border-radius:999px;text-decoration:none}
 .g-end{text-align:center}
+.g-s ul{list-style:disc}.g-s ol{list-style:decimal}.g-rel{list-style:none!important}

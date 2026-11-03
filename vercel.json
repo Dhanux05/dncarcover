@@ -1,30 +1,143 @@
 {
   "rewrites": [
-    { "source": "/car-cover", "destination": "/car-cover.html" },
-    { "source": "/bike-cover", "destination": "/bike-cover.html" },
-    { "source": "/best-car-cover-in-bangalore", "destination": "/best-car-cover-in-bangalore.html" },
-    { "source": "/best-bike-cover-in-bangalore", "destination": "/best-bike-cover-in-bangalore.html" },
-    { "source": "/car-bike-covers-karnataka", "destination": "/car-bike-covers-karnataka.html" },
-    { "source": "/car-covers/:slug", "destination": "/car-covers/:slug.html" }
+    {
+      "source": "/car-cover",
+      "destination": "/car-cover.html"
+    },
+    {
+      "source": "/bike-cover",
+      "destination": "/bike-cover.html"
+    },
+    {
+      "source": "/best-car-cover-in-bangalore",
+      "destination": "/best-car-cover-in-bangalore.html"
+    },
+    {
+      "source": "/best-bike-cover-in-bangalore",
+      "destination": "/best-bike-cover-in-bangalore.html"
+    },
+    {
+      "source": "/car-bike-covers-karnataka",
+      "destination": "/car-bike-covers-karnataka.html"
+    },
+    {
+      "source": "/about",
+      "destination": "/about.html"
+    },
+    {
+      "source": "/how-to-choose-car-cover-size",
+      "destination": "/how-to-choose-car-cover-size.html"
+    },
+    {
+      "source": "/custom-fit-vs-universal-car-covers",
+      "destination": "/custom-fit-vs-universal-car-covers.html"
+    },
+    {
+      "source": "/how-to-maintain-car-cover",
+      "destination": "/how-to-maintain-car-cover.html"
+    },
+    {
+      "source": "/best-car-cover-for-outdoor-parking-india",
+      "destination": "/best-car-cover-for-outdoor-parking-india.html"
+    },
+    {
+      "source": "/car-covers/:slug",
+      "destination": "/car-covers/:slug.html"
+    }
   ],
   "redirects": [
-    { "source": "/index.html", "destination": "/", "permanent": true },
-    { "source": "/car-covers/index.html", "destination": "/car-covers/", "permanent": true },
-    { "source": "/car-cover.html", "destination": "/car-cover", "permanent": true },
-    { "source": "/bike-cover.html", "destination": "/bike-cover", "permanent": true },
-    { "source": "/best-car-cover-in-bangalore.html", "destination": "/best-car-cover-in-bangalore", "permanent": true },
-    { "source": "/best-bike-cover-in-bangalore.html", "destination": "/best-bike-cover-in-bangalore", "permanent": true },
-    { "source": "/car-bike-covers-karnataka.html", "destination": "/car-bike-covers-karnataka", "permanent": true },
-    { "source": "/car-covers/:slug.html", "destination": "/car-covers/:slug", "permanent": true }
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/car-covers/index.html",
+      "destination": "/car-covers/",
+      "permanent": true
+    },
+    {
+      "source": "/car-cover.html",
+      "destination": "/car-cover",
+      "permanent": true
+    },
+    {
+      "source": "/bike-cover.html",
+      "destination": "/bike-cover",
+      "permanent": true
+    },
+    {
+      "source": "/best-car-cover-in-bangalore.html",
+      "destination": "/best-car-cover-in-bangalore",
+      "permanent": true
+    },
+    {
+      "source": "/best-bike-cover-in-bangalore.html",
+      "destination": "/best-bike-cover-in-bangalore",
+      "permanent": true
+    },
+    {
+      "source": "/car-bike-covers-karnataka.html",
+      "destination": "/car-bike-covers-karnataka",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-choose-car-cover-size.html",
+      "destination": "/how-to-choose-car-cover-size",
+      "permanent": true
+    },
+    {
+      "source": "/custom-fit-vs-universal-car-covers.html",
+      "destination": "/custom-fit-vs-universal-car-covers",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-maintain-car-cover.html",
+      "destination": "/how-to-maintain-car-cover",
+      "permanent": true
+    },
+    {
+      "source": "/best-car-cover-for-outdoor-parking-india.html",
+      "destination": "/best-car-cover-for-outdoor-parking-india",
+      "permanent": true
+    },
+    {
+      "source": "/car-covers/:slug.html",
+      "destination": "/car-covers/:slug",
+      "permanent": true
+    }
   ],
   "headers": [
-    { "source": "/(.*)", "headers": [
-      { "key": "X-Content-Type-Options", "value": "nosniff" },
-      { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
-      { "key": "X-Frame-Options", "value": "SAMEORIGIN" }
-    ] },
-    { "source": "/(robots.txt|sitemap.xml|llms.txt|llms-full.txt)", "headers": [
-      { "key": "Cache-Control", "value": "public, max-age=3600" }
-    ] }
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        }
+      ]
+    },
+    {
+      "source": "/(robots.txt|sitemap.xml|llms.txt|llms-full.txt)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600"
+        }
+      ]
+    }
   ]
 }
