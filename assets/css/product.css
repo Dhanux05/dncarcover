@@ -1,6 +1,6 @@
 /* DN Car Covers — product detail pages */
 .pdp .hdr{background:rgba(6,6,6,.94)}
-.pd-main{padding:calc(var(--hdr) + 14px) var(--pad) 0;max-width:1480px;margin:0 auto}
+.pd-main{padding:calc(var(--hdr) + var(--bar,0px) + 14px) var(--pad) 0;max-width:1480px;margin:0 auto}
 .crumb{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:14px;color:var(--muted);padding:10px 0 18px}
 .crumb a:hover{color:#fff}.crumb i{font-style:normal;opacity:.5}.crumb span{color:#fff}
 .pd{display:grid;gap:28px;grid-template-columns:minmax(0,1fr)}
@@ -57,7 +57,7 @@
 .pbar.show{transform:none}.pbar strong{font-family:var(--head);font-size:30px;line-height:1;display:block}.pbar .btn{min-height:46px}
 @media(min-width:900px){
   .pd{grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:clamp(30px,4vw,64px);align-items:start}
-  .pd-gal{position:sticky;top:calc(var(--hdr) + 18px)}
+  .pd-gal{position:sticky;top:calc(var(--hdr) + var(--bar,0px) + 18px)}
   .pd-cols{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:clamp(36px,5vw,80px)}
   .rel{grid-template-columns:repeat(3,minmax(0,1fr))}
   .rel-c{flex-direction:column;align-items:stretch}.rel-c img{width:100%}

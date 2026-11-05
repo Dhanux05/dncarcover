@@ -535,3 +535,27 @@ html.fx-on [data-fx].fx-in{opacity:1;transform:none}
 /* tighter join: colours -> why */
 #colours{padding-bottom:clamp(28px,3.5vw,48px)}
 #colours+#why{padding-top:clamp(36px,4vw,60px)}
+
+/* ---- announcement ticker ---- */
+:root{--bar:36px}
+.tick{position:fixed;top:0;left:0;right:0;height:var(--bar);z-index:71;overflow:hidden;background:linear-gradient(90deg,#8a0b12,#d4141c 50%,#8a0b12);color:#fff;display:flex;align-items:center;font:600 12.5px/1 'Inter',system-ui,sans-serif;letter-spacing:.02em}
+.tick-t{display:flex;flex:none;width:max-content;animation:tick 38s linear infinite}
+.tick:hover .tick-t{animation-play-state:paused}
+.tick-s{display:flex;flex:none;align-items:center}
+.tick-s span,.tick-s a{white-space:nowrap;padding:0 26px;position:relative;color:#fff;text-decoration:none}
+.tick-s span:after,.tick-s a:after{content:"";position:absolute;right:-3px;top:50%;width:5px;height:5px;margin-top:-2.5px;background:#fff;opacity:.55;transform:rotate(45deg)}
+.tick-s a{text-decoration:underline;text-underline-offset:3px}
+.tick-s a .wa-ic{width:14px;height:14px;vertical-align:-2px;margin-right:6px}
+@keyframes tick{to{transform:translateX(-50%)}}
+@media(prefers-reduced-motion:reduce){.tick-t{animation:none}.tick{overflow-x:auto}.tick-s[aria-hidden]{display:none}}
+.hdr{top:var(--bar);inset:var(--bar) 0 auto 0}
+html{scroll-padding-top:calc(var(--hdr) + var(--bar))}
+.menu{padding-top:calc(var(--hdr) + var(--bar) + 24px)}
+
+/* car / bike panels: show the whole vehicle on phones and tablets */
+@media (max-width:999px){
+  .panel{height:540px;min-height:0}
+  .panel img{inset:0 0 auto 0;height:58%;object-position:88% 50%;-webkit-mask-image:linear-gradient(#000 72%,transparent);mask-image:linear-gradient(#000 72%,transparent)}
+  .panel::after{background:linear-gradient(0deg,rgba(0,0,0,.6),rgba(0,0,0,0) 45%)}
+}
+@media (min-width:700px) and (max-width:999px){.panel h2{font-size:clamp(44px,8.4vw,84px)}}
